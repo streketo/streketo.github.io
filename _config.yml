@@ -1,18 +1,18 @@
 # site settings
 
-title:          cvless
-tagline:        Jekyll theme for a beautiful online CV
-url:            https://cvless.netlify.app
+title:          JoWeb
+tagline:        Un peu de Jo, beaucoup de web
+url:            # https://cvless.netlify.app
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/username/username.github.io
+repo:           https://github.com/j0web/ovh
 
 # author settings
 
 author:
-  name:         Place Holder
-  email:        username@domain.com
-photo:          /assets/photo.jpg
+  name:         Joachim
+  email:        dev@joweb.ovh
+photo:          # /assets/photo.jpg
 
 # build settings
 
