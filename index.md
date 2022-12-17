@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-# À propos de moi
-
+# À propos de moi  
+  
 Pour le moment, vous n'y trouverez rien, je  pense, de très excitant pour vous. Elle me sert uniquement à découvrir, tester des technologies et m'initier à différents langages, principalement autour de sujets tournant autour du web.
 
 Côté profil, je suis un homme de 50 ans exerçant depuis plus de 25 ans dans le domaine de l'optique-lunetterie, principalement dans des fonctions commerciales.
@@ -33,6 +33,6 @@ Pour le moment, on va donc essayer de construire un petit site sympa, déjà pou
 
 Uniquement du plaisir, donc !
 
-À bientôt, peut-être ;-)
+À bientôt, peut-être ;-)  
 
 {% include archive.html %}
