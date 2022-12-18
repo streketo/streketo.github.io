@@ -5,6 +5,7 @@ title: Home
 
 # À propos de moi  
   
+
 Pour le moment, vous n'y trouverez rien, je  pense, de très excitant pour vous. Elle me sert uniquement à découvrir, tester des technologies et m'initier à différents langages, principalement autour de sujets tournant autour du web.
 
 Côté profil, je suis un homme de 50 ans exerçant depuis plus de 25 ans dans le domaine de l'optique-lunetterie, principalement dans des fonctions commerciales.
@@ -12,8 +13,6 @@ Côté profil, je suis un homme de 50 ans exerçant depuis plus de 25 ans dans l
 Malheureusement et ce depuis trop longtemps, mon métier ne suffit plus à étancher ma soif de curiosité. C'est devenu une activité purement alimentaire mais que j'exerce avec plaisir quand même, c'est important de le préciser.
 
 En même temps, je n'ai jamais eu aucune passion, il aurait été donc difficile d'en trouver une à travers mon métier. En contrepartie, le fait de ne pas focaliser sur un  seul domaine m'a permis d'en découvrir beaucoup d'autres. Pour moi, l'essentiel est d'apprendre et de partager.
-
-Sans être pégoaratif mais en étant plutôt direct, j'aime rencontrer des personnes intéressantes sur le fond, comme sur la forme. Tous les autres, malheureusement, me font royalement chier !
 
 Sans passion donc, mais avec des centres d'intérêts nombreux et très variés, que je partagerai peut-être un jour ici.
 
@@ -34,5 +33,6 @@ Pour le moment, on va donc essayer de construire un petit site sympa, déjà pou
 Uniquement du plaisir, donc !
 
 À bientôt, peut-être ;-)  
-
+  
+  
 {% include archive.html %}
