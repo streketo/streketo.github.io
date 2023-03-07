@@ -1,17 +1,17 @@
 # site settings
 
-title:          Joli Virolo
-tagline:        Du Jo et des virolos
+title:          Jo etc.
+tagline:        Jo, et cetera.
 url:            # https://cvless.netlify.app
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/j0web/j0web.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/joetcetera/joetcetera.github.io # https://github.com/username/username.github.io
 
 # author settings
 
 author:
   name:         Jo
-  email:        dev@joweb.ovh
+  email:        jo@etcetera.ovh
 photo:          # /assets/photo.jpg
 
 # build settings
