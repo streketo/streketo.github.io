@@ -7,3 +7,4 @@ gem "jekyll-paginate-v2", "~> 3.0.0"
 gem "jekyll-seo-tag", "~> 2.8.0"
 gem "jekyll-sitemap", "~> 1.4.0"
 gem "webrick", "~> 1.7.0"
+gem 'github-pages', '~> 228'
