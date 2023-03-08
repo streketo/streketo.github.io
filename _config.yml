@@ -1,7 +1,7 @@
 # site settings
 
 title:          Jo etc.
-tagline:        Jo, et cetera.
+tagline:        Jo et cetera.
 url:            https://etcetera.ovh # https://cvless.netlify.app
 baseurl:        ""
 permalink:      pretty
