@@ -1,17 +1,17 @@
 # site settings
 
-title:          NET caetera
-tagline:        Web, Net, etc.
+title:          Et caetera
+tagline:        Joachim, etc.
 url:            https://et-caetera.xyz # https://cvless.netlify.app
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/netcaetera/netcaetera.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/et-caetera/et-caetera.github.io # https://github.com/username/username.github.io
 
 # author settings
 
 author:
   name:         Jo
-  email:        netcaetera.fr
+  email:        et-caetera.xyz
 photo:          # /assets/photo.jpg
 
 # build settings
