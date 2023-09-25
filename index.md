@@ -33,6 +33,7 @@ Pour le moment, on va donc essayer de construire un petit site sympa, déjà pou
 Uniquement du plaisir, donc !
 
 À bientôt, peut-être ;-)  
-  
+
+https://forms.un-static.com/forms/ccd1b4a89467b4515985df62c1fad98789df1e28  
   
 {% include archive.html %}
