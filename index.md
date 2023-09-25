@@ -34,5 +34,6 @@ Uniquement du plaisir, donc !
 
 À bientôt, peut-être ;-)  
 
+{% include form.html %}
   
 {% include archive.html %}
