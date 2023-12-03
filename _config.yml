@@ -1,11 +1,11 @@
 # site settings
 
-title:          StratUke
-tagline:        Blog et site mémo de Jo
-url:            https:/stratuke.github.io
+title:          DkLibre
+tagline:        Dunkerquois libre
+url:            https:/dklibre.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/stratuke/stratuke.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/stratuke/dklibre.github.io # https://github.com/username/username.github.io
 
 # author settings
 
