@@ -1,11 +1,11 @@
 # site settings
 
-title:          DkLibre
-tagline:        Corsaire du libre
-url:            https:/dklibre.github.io
+title:          Joachim, etc.
+tagline:        Blabla et cetera
+url:            https:/joetcetera.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/stratuke/dklibre.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/joetcetera/joetcetera.github.io # https://github.com/username/username.github.io
 
 # author settings
 
