@@ -1,7 +1,7 @@
 # site settings
 
-title:          Joachim
-tagline:        Et cetera
+title:          Joachim,
+tagline:        et cetera.
 url:            https:/joetcetera.github.io
 baseurl:        ""
 permalink:      pretty
