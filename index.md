@@ -13,7 +13,7 @@ Rien de plus pour l'instant et si vous souhaitez entrer en contact avec moi, uti
 
 My name is Joachim Murat-Delfau.  
 Nothing more for now and if you want to get in touch with me, use the form below.  
-Maybe see you soon!  
+Maybe see you soon !  
 
 {% include form.html %}
   
