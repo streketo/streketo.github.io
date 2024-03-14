@@ -1,8 +1,8 @@
 # site settings
 
-title:          Joachim
-tagline:        et cetera
-url:            https:/joetcetera.github.io
+title:          Joachimself
+tagline:        Le blog de Joachim lui-même!
+url:            https:/joachimself.github.io
 baseurl:        ""
 permalink:      pretty
 repo:           https://github.com/joetcetera/joetcetera.github.io # https://github.com/username/username.github.io
@@ -10,8 +10,8 @@ repo:           https://github.com/joetcetera/joetcetera.github.io # https://git
 # author settings
 
 author:
-  name:         Jo&c
-  email:        hello@etcetera.ovh
+  name:         Joachim
+  email:        jomd@duck.com
 photo:          # /assets/photo.jpg
 
 # build settings
