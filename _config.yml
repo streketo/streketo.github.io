@@ -1,8 +1,8 @@
 # site settings
 
-title:          JoachimSelf
-tagline:        Le blog de Joachim lui-même!
-url:            https:/joachimself.github.io
+title:          Streketo
+tagline:        Un trait d'union 
+url:            https:/streketo.github.io
 baseurl:        ""
 permalink:      pretty
 repo:           https://github.com/joetcetera/joetcetera.github.io # https://github.com/username/username.github.io
