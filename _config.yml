@@ -1,11 +1,11 @@
 # site settings
 
 title:          Streketo
-tagline:        Un trait d'union 
+tagline:        Trait d'union entre deux noms et tout le reste...
 url:            https:/streketo.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/joetcetera/joetcetera.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/streketo/streketo.github.io # https://github.com/username/username.github.io
 
 # author settings
 
